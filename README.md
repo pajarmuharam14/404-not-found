@@ -42,8 +42,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-<h1>HTML</h1>
-<h1>CSS</h1>
+-HTML
+-CSS
 
 ## Features
 
